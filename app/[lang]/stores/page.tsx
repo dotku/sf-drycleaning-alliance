@@ -17,6 +17,17 @@ interface Store {
 
 const stores: Store[] = [
   {
+    id: 7,
+    name: '联合法式干洗',
+    nameEn: 'Union French Cleaners',
+    address: '1718 Union St, San Francisco, CA 94123',
+    phone: '(415) 923-1212',
+    hours: '周一至周六 8:00-18:00',
+    services: ['干洗', '水洗熨烫', '专业印刷', '折叠服务'],
+    rating: 4.9,
+    district: 'Downtown',
+  },
+  {
     id: 1,
     name: '金山干洗中心',
     nameEn: 'Golden Gate Cleaners',
@@ -81,17 +92,6 @@ const stores: Store[] = [
     services: ['干洗', '水洗熨烫', '皮革护理', '家居清洁'],
     rating: 4.8,
     district: 'Richmond',
-  },
-  {
-    id: 7,
-    name: '联合法式干洗',
-    nameEn: 'Union French Cleaners',
-    address: '1718 Union St, San Francisco, CA 94123',
-    phone: '(415) 923-1212',
-    hours: '周一至周六 8:00-18:00',
-    services: ['干洗', '水洗熨烫', '专业印刷', '折叠服务'],
-    rating: 4.9,
-    district: 'Downtown',
   },
 ];
 
