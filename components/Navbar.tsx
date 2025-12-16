@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 
@@ -14,7 +15,14 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href={`/${language}`} className="flex items-center">
-              <span className="text-2xl font-bold text-blue-600">🧺</span>
+              <Image
+                src="/brand-icon.svg"
+                alt="SF Dry Cleaning Alliance icon"
+                width={32}
+                height={32}
+                className="w-8 h-8"
+                priority
+              />
               <span className="ml-2 text-xl font-semibold text-gray-800">
                 {t('nav.title')}
               </span>
