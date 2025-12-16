@@ -1,0 +1,203 @@
+{
+  "nav": {
+    "home": "Home",
+    "stores": "Member Stores",
+    "franchise": "Join Us",
+    "title": "SF Dry Cleaning Alliance"
+  },
+  "home": {
+    "hero": {
+      "title": "San Francisco Dry Cleaning Alliance",
+      "subtitle": "旧金山干洗店联盟",
+      "description": "Premium dry cleaning services across the Bay Area with professional, convenient, and high-quality laundry care",
+      "browseStores": "Browse Stores",
+      "applyFranchise": "Apply to Join"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "Professional Alliance, Quality Assurance",
+      "quality": {
+        "title": "Quality Service",
+        "description": "All alliance members are carefully vetted to ensure professional and high-quality laundry services"
+      },
+      "coverage": {
+        "title": "City-Wide Coverage",
+        "description": "Located throughout San Francisco neighborhoods, find a member store near you wherever you are"
+      },
+      "standard": {
+        "title": "Unified Standards",
+        "description": "Consistent service standards and quality assurance for a reliable dry cleaning experience"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "dryCleaning": {
+        "title": "Dry Cleaning",
+        "description": "Professional dry cleaning for suits, dresses, and fine garments"
+      },
+      "washing": {
+        "title": "Wash & Press",
+        "description": "Expert washing and pressing for shirts and casual wear"
+      },
+      "leather": {
+        "title": "Leather Care",
+        "description": "Specialized cleaning and care for leather jackets and bags"
+      },
+      "home": {
+        "title": "Home Textiles",
+        "description": "Cleaning services for curtains, bedding, and carpets"
+      }
+    },
+    "sponsor": {
+      "title": "Featured Sponsors",
+      "subtitle": "Special thanks to our valued alliance sponsors",
+      "featured": "Featured Sponsors",
+      "callNow": "Call Now",
+      "visitStore": "View Details",
+      "visitWebsite": "Visit Website"
+    },
+    "cta": {
+      "title": "Join SF Dry Cleaning Alliance",
+      "description": "If you operate a dry cleaning business, join our alliance to enhance service quality and expand your business influence",
+      "button": "Apply Now"
+    }
+  },
+  "stores": {
+    "title": "Member Stores",
+    "subtitle": "Quality dry cleaners across San Francisco districts",
+    "search": "Search by store name or address...",
+    "all": "All",
+    "found": "Found",
+    "stores": "stores",
+    "noResults": "No stores found matching your criteria",
+    "callNow": "Call Now",
+    "services": "Services:"
+  },
+  "franchise": {
+    "title": "Join Our Alliance",
+    "subtitle": "Become a member of the San Francisco Dry Cleaning Alliance and build a brighter future together",
+    "benefits": {
+      "title": "Alliance Benefits",
+      "branding": {
+        "title": "Brand Enhancement",
+        "description": "Join the alliance to elevate your store's brand image and increase customer trust"
+      },
+      "exposure": {
+        "title": "Online Exposure",
+        "description": "Featured on the alliance website for increased online visibility"
+      },
+      "resources": {
+        "title": "Resource Sharing",
+        "description": "Exchange experiences and share industry resources with other members"
+      },
+      "marketing": {
+        "title": "Marketing Support",
+        "description": "Unified marketing campaigns to reduce individual store marketing costs"
+      },
+      "certification": {
+        "title": "Quality Certification",
+        "description": "Receive alliance quality certification to enhance competitiveness"
+      },
+      "revenue": {
+        "title": "Increased Revenue",
+        "description": "Gain more customers through alliance referrals and boost sales"
+      }
+    },
+    "requirements": {
+      "title": "Membership Requirements",
+      "license": "Valid business license and legally operating dry cleaning store in San Francisco",
+      "experience": "At least 1 year of business experience with good service reputation",
+      "equipment": "Professional dry cleaning equipment and expertise to ensure service quality",
+      "agreement": "Align with the alliance's service standards and business philosophy",
+      "participation": "Willingness to actively participate in alliance activities and maintain alliance image"
+    },
+    "form": {
+      "title": "Membership Application",
+      "subtitle": "Please fill out the information below and we'll contact you soon",
+      "storeName": "Store Name",
+      "ownerName": "Owner Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Store Address",
+      "businessYears": "Years in Business",
+      "employees": "Number of Employees",
+      "message": "Additional Information",
+      "messagePlaceholder": "Please briefly describe your store's features or anything else you'd like us to know...",
+      "submit": "Submit Application",
+      "disclaimer": "By submitting this application, you agree to let us use your information to contact you",
+      "success": {
+        "title": "Application Submitted Successfully!",
+        "message": "Thank you for your interest in the San Francisco Dry Cleaning Alliance. Our team will contact you within 3 business days.",
+        "back": "Back to Form"
+      },
+      "select": "Please select",
+      "years": {
+        "1-2": "1-2 years",
+        "3-5": "3-5 years",
+        "6-10": "6-10 years",
+        "10+": "10+ years"
+      },
+      "employeeCount": {
+        "1-3": "1-3 people",
+        "4-6": "4-6 people",
+        "7-10": "7-10 people",
+        "10+": "10+ people"
+      }
+    }
+  },
+  "unincore": {
+    "title": "Unincore",
+    "subtitle": "Beauty and Health Products Retailer",
+    "hero": {
+      "title": "Unincore",
+      "description": "Committed to becoming the world's leading direct sales company based on innovative products and subscription platform"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "UNI&CORE was established in Seoul, South Korea, as a direct sales company focused on beauty and health products. We provide market-leading product lines through a subscription service model and continuously develop innovative products."
+    },
+    "products": {
+      "title": "Product Categories",
+      "skincare": {
+        "title": "Skincare",
+        "description": "Personal care products"
+      },
+      "healthcare": {
+        "title": "Healthcare",
+        "description": "Health supplement items"
+      },
+      "living": {
+        "title": "Living",
+        "description": "Lifestyle products"
+      },
+      "brands": {
+        "title": "Brand Items",
+        "description": "Quality branded products"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "shopping": {
+        "title": "Online Shopping",
+        "description": "Convenient online shopping platform"
+      },
+      "subscription": {
+        "title": "Subscription Service",
+        "description": "Autoship program for your convenience"
+      },
+      "support": {
+        "title": "Customer Support",
+        "description": "Comprehensive customer service"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "callNow": "Call Now",
+      "visitWebsite": "Visit Website"
+    }
+  }
+}
